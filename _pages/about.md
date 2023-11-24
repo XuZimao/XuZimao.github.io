@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
 
 姓名： 倍笠
 
