@@ -15,7 +15,8 @@ redirect_from:
 
 籍贯：山西 忻州
 
-Email：21061225@st.cidp.edu.cn
+联系方式：21061225@st.cidp.edu.cn
+
 
 
 
@@ -34,7 +35,19 @@ Email：21061225@st.cidp.edu.cn
 
 
 
+
+
+## 实践经历
+
+
+
+
+
 ## 个人荣誉
+
+
+
+
 
 
 
