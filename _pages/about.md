@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "个人主页"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## 续子茂
 
 [应急管理大学（筹）](https://www.ncist.edu.cn/Home/)/[防灾科技学院](https://www.cidp.edu.cn/)，[信息工程学院](https://ie.cidp.edu.cn/index.jsp)，计算机视觉实验室
