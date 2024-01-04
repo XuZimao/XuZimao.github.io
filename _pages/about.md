@@ -13,7 +13,7 @@ redirect_from:
 
 政治面貌：中共预备党员
 
-导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:black;">袁静</a> 副教授（清华大学博士毕业）
+导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:black;">袁静</a> 副教授
 
 年级：本科三年级（2021级）
 
