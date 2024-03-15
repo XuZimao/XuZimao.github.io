@@ -52,7 +52,7 @@ redirect_from:
 
 ### 1 论文发表
 
-- 袁静, **续子茂**, 罗浩等. 地磁活动对人类健康影响的研究进展[J/OL].地球物理学进展:1-12[2024-03-15].http://kns.cnki.net/kcms/detail/11.2982.P.20240315.1316.016.html.（**北大核心、CSCD**期刊）[查看](https://kns.cnki.net/kcms2/article/abstract?v=0Q9DRdE4I9fOlC3PD-oBjwkt5hZEPvj5Tci7nkUjgx2lMKF83jHQYED-SZhv_oHrhfyTed8aGlXv2sbB03_gVwBtL3bST6EuR8QHcEj5tNryJTXC4hb6vKpCw0wFaVOqUPiG-G7YglACPeORifAtag==&uniplatform=NZKPT&language=CHS)
+- 袁静, **续子茂**, 罗浩等. 地磁活动对人类健康影响的研究进展[J/OL].地球物理学进展:1-12[2024-03-15].（**北大核心、CSCD**期刊）[查看](https://kns.cnki.net/kcms2/article/abstract?v=0Q9DRdE4I9fOlC3PD-oBjwkt5hZEPvj5Tci7nkUjgx2lMKF83jHQYED-SZhv_oHrhfyTed8aGlXv2sbB03_gVwBtL3bST6EuR8QHcEj5tNryJTXC4hb6vKpCw0wFaVOqUPiG-G7YglACPeORifAtag==&uniplatform=NZKPT&language=CHS)
 
 ---
 
