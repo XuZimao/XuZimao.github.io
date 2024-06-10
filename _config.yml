@@ -100,10 +100,10 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://blog.csdn.net/m0_61574339?spm=1010.2135.3001.5343"#"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://blog.csdn.net/m0_61574339?spm=1010.2135.3001.5343"#"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  CSDN             : "https://blog.csdn.net/m0_61574339?spm=1010.2135.3001.5343"
+  CSDN             : #"https://blog.csdn.net/m0_61574339?spm=1010.2135.3001.5343"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
