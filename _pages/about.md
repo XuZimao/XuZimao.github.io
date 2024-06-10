@@ -26,6 +26,7 @@ E-mail：21061225@st.cidp.edu.cn
 <style>
 .indent {
     text-indent: 2em; /* 首行缩进2字符（2个汉字宽度） */
+    margin: 0; /* 移除段落之间的默认间距 */
 }
 </style>
 
