@@ -48,7 +48,7 @@ E-mail：21061225@st.cidp.edu.cn
 
 ### 1 科研论文
 
-- 袁静, **续子茂**, 罗浩, 等. 地磁活动对人类健康影响的研究进展[J]. 地球物理学进展,2024,39(04):1390-1400.（**北大核心、CSCD**期刊）[[查看]](https://kns-cnki-net-s.webvpn.cidp.edu.cn/kcms2/article/abstract?v=PAev8JwjQivFvAf3sAtJ2aLfsnJjonJIS12sefB5R35jq-UJrfNaC-6YpygzThC-StWQALqsfeSXOjZLn1kxjIizGqj3HVhpBCjsaILQcmnLfabNT3LyruDzosJPss0v-aT7flnzWab1aEZNcqpAJZ2Q1xehO6c1UbCT7IICmwUVzj-QobycFo9LnVgpJWArUXhhfoBSmVV36yzbwYHHY6q_6pFKRiU7UdNR0MeilbAb41IpMSjxtQvrCwPRIWLqGcpbAP4K74M_VQOau-gJNkXgWtdB-J45_6Kh_6w0HTm_DUolFb1sW8UIWRLmnYxeKhvVmSlU_00yQY5KQ9DfE4KJnoOf5zISmtUs3TCg_S4=&uniplatform=NZKPT&language=CHS)   [[下载]](https://xuzimao.github.io//paper_pdf//地磁活动对人类健康影响的研究进展.pdf)
+- 袁静, **续子茂**, 罗浩, 等. 地磁活动对人类健康影响的研究进展[J]. 地球物理学进展,2024,39(04):1390-1400.（**北大核心、CSCD**期刊）[[查看]](https://kns.cnki.net/kcms2/article/abstract?v=PAev8JwjQitpQerMyhCk6VptVLkpk32-duYguunIlrVoLVC74dg2kzQuMoCtZ8eSTGiLu9U26CdicOq-zO-LykhJaxniIrH8_UAwnladLMS9rYx99fWpxhEyMzvsOvC96NkhbV-qdAqFBIOJUCgBUy5yBkO7E-IawtAwZ05bRUZMKnnUu7GZueW1qW7rp6uUN56KgAkXG5r6bSJ0LrC_EQl9TNkF5Cll0V2ofI9q71-8IAwn9yIlN1XOiBJT6e4RrEQL6DlH4akXO3a4Q1W0aw==&uniplatform=NZKPT&language=CHS)   [[下载]](https://xuzimao.github.io//paper_pdf//地磁活动对人类健康影响的研究进展.pdf)
 - 袁静, 胡颖, 李馨璐, 韩冰, 李科长, **续子茂**, 杨顺, 汤吉 等. 极低频数据双台站疑似同步电磁异常扰动自动识别模型[J]. 地球物理学报. 投稿返修中.（**SCI、EI** 期刊, 第三学生作者）
 
 
