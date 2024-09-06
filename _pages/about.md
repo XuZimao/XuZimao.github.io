@@ -12,7 +12,6 @@ redirect_from:
 
 
 
-
 应急管理大学(筹) / <a href="https://www.cidp.edu.cn/" style="text-decoration:none; color:grey;">防灾科技学院</a>，计算机科学与工程学院，计算机视觉实验室
 
 科研导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:grey;">袁静</a> 博士 / 副教授、硕士生导师
@@ -33,7 +32,7 @@ E-mail：21061225@st.cidp.edu.cn
 }
 </style>
 <p class="indent">续子茂，男，中共党员，山西五台人，2003年4月生，本科在读。2021年9月进入应急管理大学(防灾科技学院)计算机科学与技术专业学习；2021年9月加入应急管理大学雏鹰青少年编程团队进行专业实践，师从袁国铭博士(中国人民大学博士后)，实践方向为编程和逻辑思维在青少年群体中的传播；2021年10月进入应急管理大学计算机视觉实验室进行专业和科研学习，师从袁静副教授(清华大学博士毕业)，学习和研究方向为人工智能技术在防灾减灾、应急管理领域的应用。</p>
-<p class="indent">大学期间在北大核心/CSCD期刊以第二作者(导师一作)发表高水平学术论文一篇；获得教育部目录认证(A类)学科竞赛国家级二等奖1次、省部级一等奖1次、省部级二等奖3次、省部级三等奖4次、其余等级奖项若干；作为学生负责人承担了中国科学院-计算机视觉实验室合作项目2次、河北省级大学生创新训练项目1次、其余项目若干；作为核心成员承担了国家级大学生创业项目1次，并帮助项目团队与中国软件行业协会NCT考试官方取得长期合作；曾在北京如地科技有限公司、应急管理大学雏鹰青少年编程培训团队进行实习实践。现担任应急管理大学人工智能社团社长、应急管理大学计算机视觉实验室本科生负责人。</p>
+<p class="indent">大学期间在北大核心/CSCD期刊以第二作者(导师一作)发表学术论文一篇；获得教育部目录认证(A类)学科竞赛国家级二等奖1次、省部级一等奖1次、省部级二等奖3次、省部级三等奖4次、其余等级奖项若干；作为学生负责人承担了中国科学院-计算机视觉实验室合作项目2次、河北省级大学生创新训练项目1次、其余项目若干；作为核心成员承担了国家级大学生创业项目1次，并帮助项目团队与中国软件行业协会NCT考试官方取得长期合作；曾在北京如地科技有限公司、应急管理大学雏鹰青少年编程培训团队进行实习实践。</p>
 
 
 
@@ -49,7 +48,7 @@ E-mail：21061225@st.cidp.edu.cn
 
 ### 1 科研论文
 
-- 袁静, **续子茂**, 罗浩, 江晨光 等. 地磁活动对人类健康影响的研究进展[J]. 地球物理学进展:1-12[2024-03-15].（**北大核心、CSCD**期刊）[查看](https://kns.cnki.net/kcms2/article/abstract?v=0Q9DRdE4I9fOlC3PD-oBjwkt5hZEPvj5Tci7nkUjgx2lMKF83jHQYED-SZhv_oHrhfyTed8aGlXv2sbB03_gVwBtL3bST6EuR8QHcEj5tNryJTXC4hb6vKpCw0wFaVOqUPiG-G7YglACPeORifAtag==&uniplatform=NZKPT&language=CHS)
+- 袁静, **续子茂**, 罗浩, 等. 地磁活动对人类健康影响的研究进展[J]. 地球物理学进展,2024,39(04):1390-1400.（**北大核心、CSCD**期刊）[[查看]](https://kns-cnki-net-s.webvpn.cidp.edu.cn/kcms2/article/abstract?v=PAev8JwjQivFvAf3sAtJ2aLfsnJjonJIS12sefB5R35jq-UJrfNaC-6YpygzThC-StWQALqsfeSXOjZLn1kxjIizGqj3HVhpBCjsaILQcmnLfabNT3LyruDzosJPss0v-aT7flnzWab1aEZNcqpAJZ2Q1xehO6c1UbCT7IICmwUVzj-QobycFo9LnVgpJWArUXhhfoBSmVV36yzbwYHHY6q_6pFKRiU7UdNR0MeilbAb41IpMSjxtQvrCwPRIWLqGcpbAP4K74M_VQOau-gJNkXgWtdB-J45_6Kh_6w0HTm_DUolFb1sW8UIWRLmnYxeKhvVmSlU_00yQY5KQ9DfE4KJnoOf5zISmtUs3TCg_S4=&uniplatform=NZKPT&language=CHS)   [[下载]](https://xuzimao.github.io//paper_pdf//地磁活动对人类健康影响的研究进展.pdf)
 - 袁静, 胡颖, 李馨璐, 韩冰, 李科长, **续子茂**, 杨顺, 汤吉 等. 极低频数据双台站疑似同步电磁异常扰动自动识别模型[J]. 地球物理学报. 投稿返修中.（**SCI、EI** 期刊, 第三学生作者）
 
 
@@ -74,6 +73,7 @@ E-mail：21061225@st.cidp.edu.cn
 - 2023.06：全国大学生电子商务“创新、创意及创业“挑战赛(**教育部目录**竞赛)，应急管理大学三等奖
 - 2024.04："挑战杯" 大学生创业计划竞赛(**教育部目录**竞赛)，应急管理大学优秀奖
 - 2023.04："共享杯" 科技资源共享服务创新大赛，全国优秀奖
+- 2024.09："共享杯" 科技资源共享服务创新大赛，全国优秀奖
 
 
 
@@ -90,7 +90,7 @@ E-mail：21061225@st.cidp.edu.cn
 
 ## 实践实习经历
 
-- 2024.07—2024.07：西南交通大学 唐山研究院，全国优秀大学生学术夏令营营员
+- 2024.07—2024.07：西南交通大学 唐山研究院，全国优秀大学生学术夏令营营员 
 - 2024.07—2024.07：上海理工大学 光电信息与计算机工程学院，全国优秀大学生夏令营营员
 - 2023.07—2023.09：北京如地科技有限公司，技术支持实习生
 - 2021.09 —— 至今：应急管理大学 雏鹰青少年编程团队，少儿编程讲师
