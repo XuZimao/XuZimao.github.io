@@ -14,9 +14,9 @@ redirect_from:
 
 应急管理大学(筹) / <a href="https://www.cidp.edu.cn/" style="text-decoration:none; color:grey;">防灾科技学院</a>，计算机科学与工程学院，<a href="https://baike.baidu.com/item/%E9%98%B2%E7%81%BE%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E9%AA%8C%E5%AE%A4/65098652" style="text-decoration:none; color:grey;">计算机视觉实验室</a>
 
-科研导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:grey;">袁静</a> 博士 / 副教授、硕士生导师
+科研导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:grey;">袁静</a> 博士 / 教授、硕士生导师
 
-实践导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E5%9B%BD%E9%93%AD/63135840?fromModule=lemma_sense-layer#viewPageContent" style="text-decoration:none; color:grey;">袁国铭</a>  博士 / 信息管理与信息系统专业主任
+实践导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E5%9B%BD%E9%93%AD/63135840?fromModule=lemma_sense-layer#viewPageContent" style="text-decoration:none; color:grey;">袁国铭</a>  博士 / 副教授、信管专业主任
 
 E-mail：21061225@st.cidp.edu.cn
 
