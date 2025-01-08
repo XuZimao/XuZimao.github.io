@@ -14,9 +14,9 @@ redirect_from:
 
 应急管理大学(筹) / <a href="https://www.cidp.edu.cn/" style="text-decoration:none; color:grey;">防灾科技学院</a>，计算机科学与工程学院，<a href="https://baike.baidu.com/item/%E9%98%B2%E7%81%BE%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E9%AA%8C%E5%AE%A4/65098652" style="text-decoration:none; color:grey;">计算机视觉实验室</a>
 
-科研导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:grey;">袁静</a> 博士 / 教授、硕士生导师
+科研导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E9%9D%99/63116510?fr=ge_ala" style="text-decoration:none; color:grey;">袁静</a> 博士 / 副教授、硕士生导师
 
-实践导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E5%9B%BD%E9%93%AD/63135840?fromModule=lemma_sense-layer#viewPageContent" style="text-decoration:none; color:grey;">袁国铭</a>  博士 / 副教授、信管专业主任
+实践导师：<a href="https://baike.baidu.com/item/%E8%A2%81%E5%9B%BD%E9%93%AD/63135840?fromModule=lemma_sense-layer#viewPageContent" style="text-decoration:none; color:grey;">袁国铭</a>  博士 / 信管专业主任
 
 E-mail：21061225@st.cidp.edu.cn
 
@@ -32,7 +32,7 @@ E-mail：21061225@st.cidp.edu.cn
 }
 </style>
 <p class="indent">续子茂，男，中共党员，山西五台人，2003年4月生，本科在读。2021年9月进入应急管理大学(防灾科技学院)计算机科学与技术专业学习；2021年9月加入应急管理大学雏鹰青少年编程团队进行专业实践，师从袁国铭博士(中国人民大学博士后)，实践方向为编程和逻辑思维在青少年群体中的传播；2021年10月进入应急管理大学计算机视觉实验室进行专业和科研学习，师从袁静副教授(清华大学博士毕业)，学习和研究方向为人工智能技术在防灾减灾、应急管理领域的应用。</p>
-<p class="indent">大学期间在北大核心/CSCD期刊以第二作者(导师一作)发表学术论文一篇；获得教育部目录认证(A类)学科竞赛国家级二等奖1次、省部级一等奖1次、省部级二等奖3次、省部级三等奖4次、其余等级奖项若干；作为学生负责人承担了中国科学院-计算机视觉实验室合作项目2次、河北省级大学生创新训练项目1次、其余项目若干；作为核心成员承担了国家级大学生创业项目1次，并帮助项目团队与中国软件行业协会NCT考试官方取得长期合作；曾在北京如地科技有限公司、应急管理大学雏鹰青少年编程培训团队进行实习实践。</p>
+<p class="indent">大学期间在北大核心/CSCD期刊以第二作者(导师一作)发表学术论文一篇；获得教育部目录认证(A类)学科竞赛国家级二等奖1次、省部级一等奖1次、省部级二等奖3次、省部级三等奖4次、其余等级奖项若干；作为学生负责人承担了中国科学院-计算机视觉实验室合作项目2次、河北省级大学生创新训练项目1次、其余项目若干；作为核心成员承担了国家级大学生创业项目1次，并帮助项目团队与中国软件行业协会NCT考试官方取得长期合作；曾在北京某科技有限公司、应急管理大学雏鹰青少年编程培训团队进行实习实践。</p>
 
 
 
